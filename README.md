@@ -8,4 +8,10 @@ Mas propiedades de list view
 
 ![image](https://github.com/user-attachments/assets/e0396e26-94b3-49dd-adac-aa113a95d8c0)
 
+## Listview con ListTile con texto mas iconos
+
+![image](https://github.com/user-attachments/assets/9c4ac194-e1cd-43b5-91a7-797ca03f5234)
+
+
+
 
