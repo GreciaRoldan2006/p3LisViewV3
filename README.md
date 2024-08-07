@@ -12,6 +12,12 @@ Mas propiedades de list view
 
 ![image](https://github.com/user-attachments/assets/9c4ac194-e1cd-43b5-91a7-797ca03f5234)
 
+## Listview con ListTile con texto mas iconos
+## leading + trailing
+
+![image](https://github.com/user-attachments/assets/abb35c5f-20ae-4a54-90f1-53ee8b2021de)
+
+
 
 
 
